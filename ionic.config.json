@@ -1,0 +1,8 @@
+{
+  "name": "DLApp",
+  "app_id": "fde72f14",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
